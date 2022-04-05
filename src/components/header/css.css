@@ -1,0 +1,7 @@
+div {
+  justify-content: space-around;
+  cursor: pointer;
+  text-decoration: none;
+  overflow: hidden;
+  vertical-align: middle;
+}
